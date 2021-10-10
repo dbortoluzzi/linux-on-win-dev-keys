@@ -5,3 +5,5 @@ Linux DEV shortcuts on WIN SO
 - Install AutoHotKey
 - Install .ahk files
 - Move files to shell:startup to run at startup
+
+**Now, you can digit braces, backtick and tilde with your lovely linux keys combinations!**
